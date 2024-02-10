@@ -1,8 +1,8 @@
 {
-  "name": "tidalab",
+  "name": "M5",
   "main": "main.js",
   "version": "4.1.10",
-  "author": "tidalab",
+  "author": "M5",
   "license": "CC0-1.0",
   "dependencies": {
     "express": "^4.17.1",
@@ -14,9 +14,9 @@
   },
   "build": {
     "electronVersion": "11.0.0",
-    "productName": "tidalab",
-    "appId": "com.tidalab",
-    "copyright": "©2023 tidalab, Inc.",
+    "productName": "M5",
+    "appId": "com.m5",
+    "copyright": "©2024 m5, Inc.",
     "directories": {
       "output": "build"
     },
